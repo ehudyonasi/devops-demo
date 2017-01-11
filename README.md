@@ -1,2 +1,3 @@
 # devops-demo
-learining
+learning
+just wanna learn git...
